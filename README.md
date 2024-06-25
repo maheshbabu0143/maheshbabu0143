@@ -11,7 +11,7 @@
   <a href="https://github.com/maheshbabu0143">
     <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
   </a>
-  <a href="https://www.youtube.com/channel/mahesh4u">
+  <a href="https://www.youtube.com/channel/UCY2zTb94KfU3rnk8fBqUXTQ">  
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
    <a href="https://www.instagram.com/maheshbabu0143">
