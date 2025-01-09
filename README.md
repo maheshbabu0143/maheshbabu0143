@@ -1,8 +1,8 @@
  <h1 align="center">Hi 👋, I'm Mahesh Kumar Singh</h1>
 
 - 🔭 I’m currently Searching a Job
-- 🌱 I’m currently learning Spring Boot 
-- 💬 Ask me anything about Core Java 
+- 🌱 I’m currently learning Data Analysis 
+- 💬 Ask me anything about  Data Analysis 
 - 📫 How to reach me: maheshkumarsingh1384@gmail.com 
 - 😄 My website: null
   
